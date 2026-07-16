@@ -1,2 +1,2 @@
 # Leetcode
-Just to share the my Leetcode solutions :)
+Just to share my Leetcode solutions :)
